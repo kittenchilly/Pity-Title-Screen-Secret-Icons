@@ -1,0 +1,14 @@
+{
+	"geode": "3.1.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "kittenchilly.pity_title_screen_secret_icons",
+	"name": "Pity Title Screen Secret Icons",
+	"version": "v1.0.0",
+	"developer": "kittenchilly",
+	"description": "Makes the 2 title screen secret icons just spawn for the achievement after destroying enough"
+}
