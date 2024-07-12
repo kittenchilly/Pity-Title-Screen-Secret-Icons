@@ -10,5 +10,6 @@
 	"name": "Pity Title Screen Secret Icons",
 	"version": "v1.0.0",
 	"developer": "kittenchilly",
-	"description": "Makes the 2 title screen secret icons just spawn for the achievement after destroying enough"
+	"description": "Makes the 2 title screen secret icons just spawn for the achievement after destroying enough",
+	"repository": "https://github.com/kittenchilly/Pity-Title-Screen-Secret-Icons"
 }
